@@ -1,6 +1,5 @@
 {
-  "name": "app-kit",
-  "namespace": "appkit",
+  "name": "ember-express",
   "version": "0.0.0",
   "private": true,
   "directories": {
@@ -15,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/stefanpenner/app-kit.git"
+    "url": "git://github.com/vysakh0/ember-express.git"
   },
   "author": "",
-  "license": "BSD",
+  "license": "MIT",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-watch": "~0.4.4",
